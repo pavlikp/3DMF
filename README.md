@@ -12,7 +12,7 @@ Vertically pooled CMAX representations of a severe precipitation event over Slov
 [Figure 12](fig12.html)
 
 ## Figure 16
-Estimated horizontal motion fields and corresponding precipitation fields for three events selected for their low inter-altitude motion correlation and high precipitation coverage. The All Vertical Slices animations show a horizontal slice through the motion field for all altitudes, averlaid with a corresponding reflectivity measurement. The In Motion Animations show the estimated horizontal motion fields and corresponding precipitation fields at the lowest altitude layer (500–1000~\si{\meter} above ground level; left) and a mid-level layer (2500–3000~\si{\meter} above ground level; right).
+Estimated horizontal motion fields and corresponding precipitation fields for three events selected for their low inter-altitude motion correlation and high precipitation coverage. The All Vertical Slices animations show a horizontal slice through the motion field for all altitudes, averlaid with a corresponding reflectivity measurement. The In Motion Animations show the estimated horizontal motion fields and corresponding precipitation fields at the lowest altitude layer (500–1000 m above ground level; left) and a mid-level layer (2500–3000 m above ground level; right).
 
 ### (a) 2022-04-09 09:55
 [Figure 16 (a) All Vertical Slices](fig16_a_1.html)
